@@ -2,7 +2,7 @@
 
 ## Introduction
 
- - [ ] how this cource will work
+ - [x] how this cource will work
  - [ ] introduction to web devlopment
  - [ ] motivation and mindset
  - [ ] asking for help
